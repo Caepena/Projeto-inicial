@@ -5,3 +5,7 @@ header {
 h1, h2 {
     font-family: serif 'Times New Roman', Times, serif;
 }
+
+nav {
+    font-weight: bold;
+}
